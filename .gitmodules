@@ -1,0 +1,3 @@
+[submodule "pycircstat"]
+	path = pycircstat
+	url = git@github.com:circstat/pycircstat.git
