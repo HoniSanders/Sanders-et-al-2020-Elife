@@ -1,6 +1,6 @@
 Install of python3 including numpy, scipy, and matplotlib is expected.  Pycircstat library is used, code needs to be built for your machine.  See their documentation at https://github.com/circstat/pycircstat.  
 
-Special files:
+Special files:  
 `model.py ` — contains all inference machinery  
 `myutils.py` — contains utils and params used in simulations  
 
